@@ -1,6 +1,6 @@
 # glider-trees
 
-Code & datasets accompanying the journal article:
+Supplementary material accompanying the journal article:
 
 ### 'Remotely sensed tree height and density explain global gliding vertebrate richness'
 
